@@ -1,0 +1,1 @@
+DELETE [db_SAP].[dbo].[TblVariant] where [id]=@ID
